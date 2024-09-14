@@ -19,5 +19,5 @@ Feel free to explore my projects and follow my journey as I develop new skills a
 
 
 ## 🔗 Links
-[![twitter](https://img.shields.io/badge/instagram-833ab4?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/)
+[![twitter](https://img.shields.io/badge/instagram-833ab4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aaleex._.010)
 
