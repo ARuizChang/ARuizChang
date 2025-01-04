@@ -12,7 +12,7 @@ I'm a **student** passionate about learning new technologies, building cool proj
 
 ## 🔭 What I'm Currently Working On
 
-- **Personal Portfolio Website** - Building a website to showcase my projects and skills.
+- 
 
 ## 🌱 What I'm Currently Learning
 
@@ -23,7 +23,7 @@ I'm a **student** passionate about learning new technologies, building cool proj
 ## 📫 How to Reach Me
 
 - **Email**: aaleex.777.010@gmail.com
-- **Portfolio**: [Portofolio](https://portfolio-ovm7.onrender.com/)
+- **Portfolio**: [Portfolio](https://portfolio-ovm7.onrender.com/)
 
 
 ---
