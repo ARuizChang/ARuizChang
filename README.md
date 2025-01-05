@@ -12,7 +12,7 @@ I'm a **student** passionate about learning new technologies, building cool proj
 
 ## 🔭 What I'm Currently Working On
 
-- 
+-**Data Visualization Dashboard**: I'm creating a Dashboard in with you'll be able to visualize data from a TSLA stocks from a .csv
 
 ## 🌱 What I'm Currently Learning
 
