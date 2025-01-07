@@ -29,9 +29,9 @@ I'm a **student** passionate about learning new technologies, building cool proj
 - **Portfolio**: [Portfolio](https://portfolio-ovm7.onrender.com/)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/ARuizChang/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/ARuizChang/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/ARuizChang/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ARuizChang/ARuizChang/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ARuizChang/ARuizChang/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ARuizChang/ARuizChang/output/github-snake.svg" />
 </picture>
 
 
