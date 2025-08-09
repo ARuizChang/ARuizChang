@@ -6,10 +6,14 @@
 
 <h3 align="center">A curious developer exploring AI, reinforcement learning, and creative coding projects</h3>
 
+---
+
 - 🔭 I’m currently working on **creating a model similar to ChatGPT**, and **developing a simple game platform to train agents using reinforcement learning**  
 - 🌱 I’m currently learning **PyTorch** and **React**  
 - 📫 How to reach me: **aaleex.777.010@gmail.com**  
 - 💻 GitHub: [ARuizChang](https://github.com/ARuizChang)  
+
+<img src="https://raw.githubusercontent.com/ARuizChang/ARuizChang/main/assets/wave1.svg" alt="divider" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,6 +24,8 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
 </p>
+
+<img src="https://raw.githubusercontent.com/ARuizChang/ARuizChang/main/assets/wave2.svg" alt="divider" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -39,3 +45,5 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
 </p>
+
+<img src="https://raw.githubusercontent.com/ARuizChang/ARuizChang/main/assets/wave3.svg" alt="divider" />
