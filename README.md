@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alex Ruiz</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=550&lines=AI+Enthusiast;Reinforcement+Learning+Explorer;Game+Platform+Creator;Always+Learning+New+Tech" alt="Typing SVG" />
+</p>
+
 <h3 align="center">A curious developer exploring AI, reinforcement learning, and creative coding projects</h3>
 
 - 🔭 I’m currently working on **creating a model similar to ChatGPT**, and **developing a simple game platform to train agents using reinforcement learning**  
