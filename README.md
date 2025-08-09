@@ -13,7 +13,7 @@
 - 📫 How to reach me: **aaleex.777.010@gmail.com**  
 - 💻 GitHub: [ARuizChang](https://github.com/ARuizChang)  
 
-<img src="https://raw.githubusercontent.com/ARuizChang/ARuizChang/main/assets/wave1.svg" alt="divider" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,7 +25,7 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/ARuizChang/ARuizChang/main/assets/wave2.svg" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:0066FF&height=80&section=header&reversal=true" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -46,4 +46,4 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/ARuizChang/ARuizChang/main/assets/wave3.svg" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:0066FF&height=80&section=footer" />
