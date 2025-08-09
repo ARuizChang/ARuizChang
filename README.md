@@ -37,9 +37,9 @@ Currently working on:
 ---
 
 <!-- Featured Projects -->
-## 🚀 Featured Projects
-- [🤖 **GPT-Lite**](https://github.com/ARuizChang/GPT-Lite) – A small-scale GPT model built with PyTorch.  
-- [🎮 **RL Game Platform**](https://github.com/ARuizChang/RL-Game-Platform) – A simple game platform to train RL agents.  
+## 🚀 What i'm working on
+- [🤖 **GPT-Lite**](https://github.com/ARuizChang/) – A small-scale GPT model built with PyTorch.  
+- [🎮 **RL Game Platform**](https://github.com/ARuizChang/) – A simple game platform to train RL agents.  
 
 ---
 
